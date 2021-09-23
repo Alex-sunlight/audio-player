@@ -1,11 +1,4 @@
-/*
- * @Author: 黄灿民
- * @Date: 2021-02-21 22:52:02
- * @LastEditTime: 2021-02-22 21:42:37
- * @LastEditors: 黄灿民
- * @Description: 歌曲静态文件
- * @FilePath: \05.网易云音乐\js\asset.js
- */
+
 const songList = [
     { name: "清明雨上", album: "Vae新歌+精选珍藏", url: "./video/清明雨上.mp3", pic: "img/许嵩_Vae新歌+精选珍藏合辑_4.jpg", singer: "许嵩", time: "03:40", songid: "qmys" },
     { name: "海阔天空", album: "海阔天空", url: "./video/海阔天空.mp3", pic: "img/BEYOND_海阔天空_4.jpg", singer: "BEYOND", time: "05:27", songid: "hktk" },
